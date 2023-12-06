@@ -100,6 +100,20 @@ button:hover{
                 gap: 0.9rem;
             }
         }
+        /* iphone 14 pro max */
+    @media screen and (max-width : 430px){
+        .container{
+            width: 93%;
+                
+            }
+            button{
+                padding: 0 0.1rem 0 0.1rem;
+                font-size: 2.3rem;
+            }
+            .btm-Box{
+                gap: 1.5rem;
+            }
+        }
     @media screen and (max-width : 360px){
         .container{
             margin-top: 11rem;
