@@ -64,6 +64,7 @@ button{
     padding-left: 0.5rem;
     text-align: center;
     font-size: 3rem;
+    font-weight: 500;
     font-family: 'Patrick Hand', cursive;
     border: 2px solid rgb(36, 32, 32);
     border-radius: 1rem;
@@ -80,8 +81,8 @@ button:hover{
 @media screen and (max-width: 1024px){
     .container{
         width: 62%;
-        height: 32%;
-        margin-top: 19rem;
+        height: 50%;
+        margin-top: 7rem;
     }
     
 }
